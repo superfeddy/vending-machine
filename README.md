@@ -6,13 +6,17 @@ A vending machine using functional reactive programming(FRP)
 
 This project was generated with React, Node.js and TypeScript
 
-## Deveopment
+## Install the modules
 
-Run `npm run dev` and navigate to `http://localhost:3000`.
+Run `npm install` on both root folder and client folder.
 
 ## Build
 
-Run `npm build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Deveopment
+
+Run `npm run dev` and navigate to `http://localhost:3000`.
 
 ## Test
 
@@ -49,5 +53,5 @@ This shows how to use the vending machine.
 
 1) Insert coins up to 100.
 2) Select the product.
-3) Take the product
-4) Return coins
+3) Take the product.
+4) Return coins.
