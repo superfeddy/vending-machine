@@ -1,0 +1,14 @@
+.header {
+	width: 100%;
+	padding: 2%;
+	text-align: center;
+}
+
+.btn {
+	width: 100%;
+}
+
+#currentProduct {
+	color: white;
+	background-color: #198754;
+}
